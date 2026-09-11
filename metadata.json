@@ -1,0 +1,8 @@
+{
+  "name": "Dokichat • AI Studio Community",
+  "description": "Website thông tin chính thức của nhóm Dokichat • AI Studio Community",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
